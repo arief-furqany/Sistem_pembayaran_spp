@@ -6,10 +6,13 @@
     <title>Sistem Informasi Sekolah</title>
 </head>
 <body>
-    <div class="form">
-    <form action=""></form>
+<?php include "layout/header.html" ?>
+<?php include "inputform/input_guru.php" ?>
+
+</body>
+</html>
 
 
-    </div>
+<?php include "layout/footer.html" ?>
 </body>
 </html>
