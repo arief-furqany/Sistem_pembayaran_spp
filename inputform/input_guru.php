@@ -19,7 +19,7 @@
     <title>Document</title>
 </head>
 <body>
-    <section class="container">
+    <div class="container">
 
     <h3>Form Guru</h3>
 
@@ -51,6 +51,6 @@
             <button type="submit"> sumbit </button>
 
         </form>
-</section>
+</div >
 </body>
 </html>

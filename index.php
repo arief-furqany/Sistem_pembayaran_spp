@@ -8,7 +8,7 @@
 <body>
 <?php include "layout/header.html" ?>
 <?php include "inputform/input_guru.php" ?>
-
+<?php include "inputform/input_mapel.php" ?>
 </body>
 </html>
 
